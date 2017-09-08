@@ -7,7 +7,7 @@ Node::Node(){
 
 }
 
-Node::Node(int dato, Node* siguientet) {
+Node::Node(int dato, Node* siguiente) {
 	dato = dato;
 	siguiente = siguiente;
 }
